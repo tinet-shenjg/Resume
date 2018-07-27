@@ -4,6 +4,8 @@
  - 申建刚/男/1994 
  - 本科/西北师范大学大学计算机系 
  - 工作年限：2年
+ - 联系电话：18610615656
+ - 邮箱：shenjg@aliyun.com
  - 技术博客：https://tinet-shenjg.github.io/
  - Github：http://github.com/tinet-shenjg
 
