@@ -32,7 +32,8 @@
 负责中国航发网上商城的采购企业和供应商的部门需求的实现和bug的修复，主要熟悉和学习了淘宝的分布式服务框架hsf以及阿里oss的基本使用
 
 ### 中航电子工业采购平台项目
-负责中航电子工业采购平台门户系统的研发工作，主要实现基于阿里opensearch的商品搜索功能。
+负责中航电子工业采购平台门户系统的研发工作，主要参与了门户网站中商品分类的展示和商品搜索功能的实现，商品分类缓存在Redis中，考虑到数据更新后同步Redis缓存的更新问题，实现了数据更新对redis的更新操作，
+商品搜索使用的OpenSearch，研究了阿里的接口文档实现了从门户网站对商品的搜索功能，项目中认识到了非关系型数据库的优点，同时在使用的过程中提高了自己对技术的理解。
 
 
 ---
@@ -55,7 +56,7 @@
 以下均为我熟练使用的技能
 
 - Web开发：JAVA
-- Web框架：SpringCloud/SpringMvc/SpringBoot/Mybatis
+- Web框架：SpringCloud/SpringMVC/SpringBoot/Mybatis
 - 前端框架：Bootstrap/HTML5
 - 前端工具：Bower
 - 数据库相关：MySQL/PgSQL
