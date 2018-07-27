@@ -1,10 +1,9 @@
 ---
 
 # 个人信息
-
- - 申建刚/男/1990
- - 本科/萌鹿大学计算机系 
- - 工作年限：3年
+ - 申建刚/男/1994 
+ - 本科/西北师范大学大学计算机系 
+ - 工作年限：2年
  - 微博：[@JobDeer](http://weibo.com/jobdeer) （``` 如果没有技术相关内容，也可以不放 ```）
  - 技术博客：http://blog.github.io ( ``` 使用GitHub Host的Big较高 ```  )
  - Github：http://github.com/geekcompany ( ``` 有原创repo的Github帐号会极大的提升你的个人品牌 ```  )
